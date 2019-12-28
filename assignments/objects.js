@@ -55,7 +55,7 @@ const antonietta = {
   email: "adaine5@samsung.com",
   gender: "F",
   multiplyNums: function (num1, num2) {
-    return num1 + num2;
+    return num1 * num2;
   }
 };
 // ==== Challenge 2: Reading Object Data ==== 
